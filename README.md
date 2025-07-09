@@ -1,2 +1,2 @@
 # OnlineStore
-Simple Online Store Using Native PHP
+Simple Online Store Using PHP Native

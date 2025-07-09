@@ -1,0 +1,90 @@
+.warna1 {
+    background-color: #213448;
+}
+
+.warna2 {
+    background-color: #547792;
+}
+
+.warna3 {
+    background-color: #94B4C1;
+}
+
+.warna4 {
+    background-color: #ECEFCA;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/clothing-rack-with-floral-hawaiian-shirts-hangers-hat.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.kategori-baju-pria {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/young-friends-having-fun-together.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-baju-wanita {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/stylish-woman-leather-coat-black-hat-demonstrate-winter-fashion-trends-white.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-sepatu {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/new-pair-white-sneakers-isolated-white.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover {
+    color: #94B4C1;
+}
+
+.text-harga {
+    font-size: 22px;
+    color: #547792;
+}
+
+.image-box {
+    height: 300px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0, 0, 0, 0.7); 
+}
+.content-subscribe  a{
+    color: #fff;
+}
+
+.banner2 {
+    height: 45vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/clothing-rack-with-floral-hawaiian-shirts-hangers-hat.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.ktgori-trkait-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}

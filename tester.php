@@ -10,6 +10,9 @@ $karyawan =
 
 <head></head>
 
+<h1>Tabel Siswa</h1>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem saepe similique fuga doloribus labore, ut amet quasi commodi fugiat rerum laboriosam quo error suscipit mollitia nulla? Incidunt ut accusantium ipsa.</p>
+
 <body>
     <table border="1">
         <tr>

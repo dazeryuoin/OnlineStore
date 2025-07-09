@@ -45,7 +45,6 @@ $karyawan =
     file_put_contents("dataSerialize.txt", $dataSerialize);
     $output = file_get_contents('dataSerialize.txt');
     $Serialize_array = unserialize($output);
-    echo "<br>";
     print_r($Serialize_array);
     ?>
 
